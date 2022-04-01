@@ -1,2 +1,2 @@
 # News_bot
-Telegram bot sending news to my channel
+Telegram bot sending fresh news to my channel from vc.ru/new
